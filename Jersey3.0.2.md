@@ -42,3 +42,8 @@ Lombok　　：java getter setter
 
 使い方：https://www.jianshu.com/p/2ea9ff98f7d6
 https://qiita.com/opengl-8080/items/671ffd4bf84fe5e32557
+
+
++Swagger2
+
+https://blog.csdn.net/q840202933/article/details/80897096
